@@ -103,12 +103,28 @@ public class lambdaTest {
 		userlist.stream().map(user -> user.getCreateTime()).forEach(x -> System.out.print(x + "  "));
 	}
 	
+	/**
+	 * 用法四：lambda表达式实现map和reduce
+	 * 
+	 * map上面说过是把一个对象转成另外一个对象，reduce是将值合并；
+	 * 在实际中可能比较多会用于数值的计算，比如对集合中的数值统一做某项处理后求和或者差等等。
+	 */
 	public static void testReducer() {
 		List<Double> cost = Arrays.asList(10.0, 20.0,30.0);
         double allCost = cost.stream().map(x -> x+x*0.05).reduce((sum,x) -> sum + x).get();
         System.out.println(allCost);
 	}
 	
+	/**
+	 * 用法五：filter操作
+	 * 
+	 * 从集合中过滤一部分不符合条件的数据；
+	 * 这个功能应该会很有用，比如获取用户的集合并从中过滤掉非本地的用户等等类似的过滤功能，会很方便
+	 * 
+	 * 用法六：与Predict配合使用
+	 * 
+	 * 这个用法和用法五应该会经常配合使用，过滤条件可以拎出来写成Predict来做复用
+	 */
 	public static void filterTest() {
         List<Double> cost = Arrays.asList(10.0, 20.0,30.0,40.0);
         // 这里还可以把x -> filter(x)这里提出来写成一个Predicate，以作复用
