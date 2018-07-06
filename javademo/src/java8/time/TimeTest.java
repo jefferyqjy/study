@@ -1,7 +1,6 @@
 package java8.time;
 
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.time.ZoneId;
 
 public class TimeTest {
@@ -9,7 +8,7 @@ public class TimeTest {
 		LocalDateTime currentTime = LocalDateTime.now();
 		System.out.println(currentTime);
 		
-		LocalTime date = LocalTime.parse("12:22:23");
+		LocalDateTime date = LocalDateTime.parse(currentTime.toString());
 		System.out.println(date);
 		
 		ZoneId currentZone = ZoneId.systemDefault();
