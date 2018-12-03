@@ -1,4 +1,4 @@
-package practice.algorithm.largesttimefromdigits;
+package practice.algorithm;
 
 import java.util.ArrayList;
 import java.util.Comparator;
