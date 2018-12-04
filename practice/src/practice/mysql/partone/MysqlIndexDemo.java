@@ -1,4 +1,4 @@
-package practice.mysql;
+package practice.mysql.partone;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

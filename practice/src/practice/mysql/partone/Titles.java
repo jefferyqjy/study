@@ -1,4 +1,4 @@
-package practice.mysql;
+package practice.mysql.partone;
 
 public class Titles {
 	
