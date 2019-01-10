@@ -1,4 +1,4 @@
-package practice.mysql.partone;
+package practice.share.mysql.index.partone;
 
 public class Titles {
 	
