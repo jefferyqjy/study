@@ -20,7 +20,7 @@ import javax.mail.internet.MimeUtility;
 
 /**
  * 
- * @description java发送邮件 
+ * @description java发送邮件实例代码
  * @author jefferyqjy
  *
  */
