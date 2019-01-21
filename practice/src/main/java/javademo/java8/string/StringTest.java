@@ -1,4 +1,4 @@
-package java.java8.string;
+package javademo.java8.string;
 
 public class StringTest {
 	public static void main(String[] args) {

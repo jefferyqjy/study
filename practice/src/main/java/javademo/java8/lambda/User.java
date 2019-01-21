@@ -1,4 +1,4 @@
-package java.java8.lambda;
+package javademo.java8.lambda;
 
 import java.util.Date;
 

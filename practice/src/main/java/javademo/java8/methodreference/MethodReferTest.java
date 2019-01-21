@@ -1,4 +1,4 @@
-package java.java8.methodreference;
+package javademo.java8.methodreference;
 
 import java.util.function.Supplier;
 

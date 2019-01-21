@@ -1,4 +1,4 @@
-package java.java8.thread;
+package javademo.java8.thread;
 
 public class ThreadB extends Thread{
 

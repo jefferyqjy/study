@@ -1,4 +1,4 @@
-package java.java8.defaultfunction;
+package javademo.java8.defaultfunction;
 
 /**
  * 
