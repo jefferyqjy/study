@@ -1,4 +1,4 @@
-package email;
+/*package email;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -18,12 +18,12 @@ import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 import javax.mail.internet.MimeUtility;
 
-/**
+*//**
  * 
  * @description java发送邮件实例代码
  * @author jefferyqjy
  *
- */
+ *//*
 public class SendEmailDemo2 {
 	
 	public static void main(String[] args) throws MessagingException, FileNotFoundException, IOException {
@@ -53,7 +53,7 @@ public class SendEmailDemo2 {
 		ts.close();
 	}
 	
-	/**
+	*//**
 	 * 
 	 * 创建带附件的邮件
 	 * @param session
@@ -62,7 +62,7 @@ public class SendEmailDemo2 {
 	 * @throws MessagingException
 	 * @throws FileNotFoundException
 	 * @throws IOException
-	 */
+	 *//*
 	@SuppressWarnings({ "unused" })
 	private static Message createAttachMail(Session session) throws AddressException, MessagingException, FileNotFoundException, IOException {
 		MimeMessage message = new MimeMessage(session);
@@ -99,7 +99,7 @@ public class SendEmailDemo2 {
 		return message;
 	}
 	
-	/**
+	*//**
 	 * 生成一封带附件和带图片的邮件
 	 * @param session
 	 * @return
@@ -107,7 +107,7 @@ public class SendEmailDemo2 {
 	 * @throws AddressException 
 	 * @throws IOException 
 	 * @throws FileNotFoundException 
-	 */
+	 *//*
 	public static MimeMessage createMixedMail(Session session) throws AddressException, MessagingException, FileNotFoundException, IOException {
 		// 创建邮件
 		MimeMessage message = new MimeMessage(session);
@@ -146,3 +146,4 @@ public class SendEmailDemo2 {
 	}
 
 }
+*/
