@@ -5,6 +5,13 @@ import java.io.IOException;
 
 import sun.misc.ProxyGenerator;
 
+/**
+ * 
+ * https://www.aliyun.com/jiaocheng/856038.html
+ * @Description 
+ * @author qjy
+ * @date 2019年1月22日 下午5:32:42
+ */
 public class ProxyTest {
 
 	private static String DEFAULT_CLASS_NAME = "$Proxy";
