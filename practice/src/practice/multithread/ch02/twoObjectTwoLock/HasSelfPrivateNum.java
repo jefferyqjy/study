@@ -1,4 +1,4 @@
-package practice.multithread.ch02.t2;
+package practice.multithread.ch02.twoObjectTwoLock;
 
 public class HasSelfPrivateNum {
 	
