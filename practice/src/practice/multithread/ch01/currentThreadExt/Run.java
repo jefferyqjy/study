@@ -1,4 +1,4 @@
-package practice.multithread.currentThreadExt;
+package practice.multithread.ch01.currentThreadExt;
 
 public class Run {
 

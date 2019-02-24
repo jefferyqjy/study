@@ -1,4 +1,4 @@
-package practice.multithread.t1;
+package practice.multithread.ch01.t1;
 
 public class ThreadTest extends Thread {
 

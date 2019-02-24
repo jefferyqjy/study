@@ -1,4 +1,4 @@
-package practice.multithread.isaliveOtherTest;
+package practice.multithread.ch01.isaliveOtherTest;
 
 public class Run {
 

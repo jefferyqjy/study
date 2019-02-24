@@ -1,4 +1,4 @@
-package practice.multithread.t4_threadsafe;
+package practice.multithread.ch01.t4_threadsafe;
 
 public class ALogin extends Thread {
 	@Override

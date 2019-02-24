@@ -12,7 +12,7 @@ public class Test {
 			PublicVar publicVar = new PublicVar();
 			ThreadA thread = new ThreadA(publicVar);
 			thread.start();
-			thread.sleep(5000);
+			Thread.sleep(5000);
 			publicVar.getValue();
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block

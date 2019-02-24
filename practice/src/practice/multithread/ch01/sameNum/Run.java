@@ -1,4 +1,4 @@
-package practice.multithread.sameNum;
+package practice.multithread.ch01.sameNum;
 
 public class Run {
 

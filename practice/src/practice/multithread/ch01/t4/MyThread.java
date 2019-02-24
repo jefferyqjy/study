@@ -1,4 +1,4 @@
-package practice.multithread.t4;
+package practice.multithread.ch01.t4;
 
 public class MyThread extends Thread {
 	

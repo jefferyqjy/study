@@ -1,4 +1,4 @@
-package practice.multithread.t7;
+package practice.multithread.ch01.t7;
 
 public class Run {
 
