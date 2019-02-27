@@ -5,7 +5,7 @@ import java.util.List;
 
 public class MyOneList {
 		
-	private List list= new ArrayList();
+	private List<String> list= new ArrayList<String>();
 	
 	synchronized public void add(String data) {
 		list.add(data);
