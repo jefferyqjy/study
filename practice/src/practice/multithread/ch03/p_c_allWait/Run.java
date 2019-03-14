@@ -1,7 +1,7 @@
 package practice.multithread.ch03.p_c_allWait;
 
 /**
- * @Description
+ * @Description 演示假死的产生，在P/C类中使用notifyAll()可以解决这个问题；
  * @Author qjy13114
  * @Date 2019/3/13 20:07
  */

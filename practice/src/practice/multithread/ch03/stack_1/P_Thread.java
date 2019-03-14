@@ -1,0 +1,23 @@
+package practice.multithread.ch03.stack_1;
+
+/**
+ * @Description
+ * @Author jefferyqjy
+ * @Date 2019/3/14 23:53
+ */
+public class P_Thread extends Thread {
+
+    private P p;
+
+    public P_Thread(P p) {
+        super();
+        this.p = p;
+    }
+
+    @Override
+    public void run() {
+        while (true) {
+            p.pushService();
+        }
+    }
+}
