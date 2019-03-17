@@ -1,9 +1,9 @@
-package practice.multithread.ch03.section3.ThreadLocal33;
+package practice.multithread.ch03.section4.InheritableThreadLocal1;
 
 /**
- * @Description 自定义ThreadLocal，验证自定义的初始值及其隔离性
+ * @Description
  * @Author jefferyqjy
- * @Date 2019/3/17 20:28
+ * @Date 2019/3/17 20:41
  */
 public class Run {
 
@@ -14,8 +14,8 @@ public class Run {
                 Thread.sleep(100);
             }
             Thread.sleep(5000);
-            ThreadA a = new ThreadA();
-            a.start();
+            ThreadA threadA = new ThreadA();
+            threadA.start();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
