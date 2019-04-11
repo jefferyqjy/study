@@ -3,7 +3,6 @@ package leetcode.palindrome;
 /**
  * 
  * @Description 判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。（如果有符号的话，符号也需要考虑进去）
- * @author qjy@chebada.com 
  * @date 2019年4月10日 上午10:01:15
  */
 public class Solution {
