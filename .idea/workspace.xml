@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95e556c5-5e0f-450f-96f3-b7cb19ee531c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/lib/activation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/lib/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/algorithm/LargestTimeFromDigitsSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/algorithm/LongestCommonPrefixSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/algorithm/PalindromeNumberSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/algorithm/ReverseIntegerSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/algorithm/TwoSumSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/algorithm/ValidParenthesesSolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/AbstractFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/AudiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/AudiQ7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/AudiR18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/BenzFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/BenzGLA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/BenzSLK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/SportUtilityCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/abstractfactory/SportsCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/FactoryMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/SportsCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/SportsCarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/TruckFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/factorymethod/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/simplefactory/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/simplefactory/SimpleFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/simplefactory/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/simplefactory/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/factory/simplefactory/VehicleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/producerconsumer/ProducerConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/proxy/staticproxy/BaseUserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/proxy/staticproxy/IUserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/proxy/staticproxy/StaticProxyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/proxy/staticproxy/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/proxy/staticproxy/UserDAOProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/singleton/SingletonTestA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/singleton/SingletonTestB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/singleton/SingletonTestC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/designpattern/singleton/SingletonTestD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/email/DownloadFileFromUrlDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/email/SendEmailDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/email/SendEmailDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/io/IO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/classdemo/NULL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/classdemo/Outter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/collections/CollectionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/defaultfunction/DefaultFunctionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/lambda/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/lambda/lambdaPerformanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/lambda/lambdaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/methodreference/MethodReferTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/string/StringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/thread/ThreadA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/thread/ThreadB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/thread/ThreadC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/thread/ThreadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/java8/time/TimeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/jvm/volatiledemo/AtomicIntegerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/jvm/volatiledemo/ReentrantLockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/jvm/volatiledemo/SynchronizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/jvm/volatiledemo/VolatileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/proxy/ProxyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/proxy/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/proxy/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/stringdemo/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/thread/FutureTaskTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/thread/RandomThreadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/thread/RunTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/javademo/thread/ThreadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/mysql/share/index/partone/MysqlIndexDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/mysql/share/index/partone/Titles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/mysql/share/index/parttwo/Part1-Explain详解.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/mysql/share/index/parttwo/Part2-索引最佳实践.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/mysql/share/index/parttwo/Part3-索引优化深入（分析优化）.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/mysql/share/index/parttwo/presentation.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/test/ConcurrentHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/test/InternTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/study.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1559" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-easyexcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="easyexcel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95e556c5-5e0f-450f-96f3-b7cb19ee531c" name="Default Changelist" comment="" />
+      <created>1560860989767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560860989767</updated>
+      <workItem from="1560860990949" duration="236000" />
+      <workItem from="1560936734227" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="750000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo-easyexcel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-easyexcel/src/main/java/com/example/demo/easyexcel/DemoEasyexcelApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
