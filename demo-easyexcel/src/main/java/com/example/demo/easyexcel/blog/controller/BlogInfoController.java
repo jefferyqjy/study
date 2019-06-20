@@ -18,6 +18,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
+import java.util.List;
 
 @Controller
 @RequestMapping("/api/blog")
@@ -35,7 +36,11 @@ public class BlogInfoController {
             out = response.getOutputStream();
             ExcelWriter writer = new ExcelWriter(out, ExcelTypeEnum.XLSX);
             Sheet sheet = new Sheet(1, 0, BlogInfo.class);
-            writer.write(blogInfoService.queryAll(), sheet);
+            Integer count = blogInfoService.queryAllCount();
+            for (int i = 0; i < count; i++) {
+                List<BlogInfo> blogInfos = blogInfoService.queryAllByPage(i, 1);
+                writer.write(blogInfos, sheet);
+            }
             writer.finish();
 
             out.flush();
