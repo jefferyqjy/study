@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 import java.util.Date;
 
 /**
- *
+ * test
  */
 @TableName("tbl_article_info")
 public class BlogInfo extends BaseRowModel {
