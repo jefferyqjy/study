@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e71e1580-5fb2-425b-a022-62e770c8c2e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/nio/filechanneldemo/FileChannelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/nio/selector/SelectorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/nio/selector/SelectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/nio/selector/SelectorDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +92,8 @@
       <workItem from="1563860837017" duration="1216000" />
       <workItem from="1564127942038" duration="709000" />
       <workItem from="1564835302225" duration="387000" />
-      <workItem from="1564835707673" duration="6322000" />
+      <workItem from="1564835707673" duration="6624000" />
+      <workItem from="1564998929508" duration="3315000" />
     </task>
     <servers />
   </component>
